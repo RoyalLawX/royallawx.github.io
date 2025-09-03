@@ -1,4 +1,2 @@
 # royallawx.github.io
-Prosecuting organized white collar crime since 2022. Contacts: RoyalLawX@proton.me
-
-<a href="{{ page.permalink }}">About</a>
+Prosecuting organized white collar crime since 2022.   Contacts: RoyalLawX@proton.me

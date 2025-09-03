@@ -1,4 +1,6 @@
+---
 layout: page
 title: "Templates"
-permalink: /templates
+permalink: /templates/
+---
 Templates
