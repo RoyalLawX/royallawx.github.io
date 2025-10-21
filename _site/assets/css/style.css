@@ -323,17 +323,17 @@ a:hover { text-decoration: underline; }
 .site-footer-credits { color: #819198; }
 
 /* Your overrides AFTER the import */
-header.page-header { background-color: #000000; background-image: linear-gradient(135deg, #000000 0%, #1a1a1a 40%, #2b2b2b 70%, #5a5a5a 100%); color: #ffffff; text-shadow: 0 1px 2px rgba(0, 0, 0, 0.6); }
+header.page-header { background-image: url("/assets/png/banner.png"); /* path to your image */ background-size: cover; /* scale image to fill the header */ background-repeat: no-repeat; /* prevent tiling */ background-position: center; /* center image */ }
 
-a { color: #ff0030; /* bright red */ }
+a { color: #000000; text-decoration: underline; /* optional */ }
 
-a:hover, a:focus { color: #cc0030; /* darker red on hover for better contrast */ text-decoration: underline; /* optional */ }
+a:hover, a:focus { color: #ff0030; /* darker red on hover for better contrast */ text-decoration: underline; /* optional */ }
 
 /* Make titles in the main content red */
-.main-content h1 { color: #ff0030; /* RoyalLawX red - elegant, not neon */ font-weight: 700; letter-spacing: 0.5px; /* optional */ }
+.main-content h1 { color: #000000; font-weight: 700; letter-spacing: 0.5px; /* optional */ }
 
 /* Optionally make all subheadings dark red */
-.main-content h2, .main-content h3 { color: #ff0030; }
+.main-content h2, .main-content h3 { color: #000000; }
 
 /* Apply Red Hat Display globally */
 body { font-family: "Red Hat Display", "Open Sans", Arial, sans-serif; }
@@ -344,7 +344,7 @@ h1, h2, h3, h4, h5, h6 { font-family: "Red Hat Display", "Open Sans", Arial, san
 /* Make nav links look like separate blocks */
 .page-header nav { display: flex; flex-wrap: wrap; /* allows wrapping to new lines */ justify-content: center; /* centers the tiles */ gap: 10px; /* spacing between tiles */ margin-top: 15px; }
 
-.page-header nav a { display: inline-block; /* makes them behave like blocks but flow nicely */ background: rgba(255, 255, 255, 0.1); /* subtle transparent tile background */ color: #fff; padding: 10px 20px; border-radius: 8px; /* soft corners */ text-decoration: none; font-weight: 600; transition: all 0.25s ease-in-out; border: 1px solid rgba(255, 255, 255, 0.2); }
+.page-header nav a { display: inline-block; /* makes them behave like blocks but flow nicely */ background: rgba(0, 0, 0, 0.6); /* subtle transparent tile background */ color: #fff; padding: 10px 20px; border-radius: 8px; /* soft corners */ text-decoration: none; font-weight: 600; transition: all 0.25s ease-in-out; border: 1px solid rgba(255, 255, 255, 0.2); }
 
 /* Hover effect */
-.page-header nav a:hover { background: #e50914; /* RoyalLawX red */ border-color: #e50914; color: #fff; transform: translateY(-2px); }
+.page-header nav a:hover { background: #ff0030; /* RoyalLawX red */ border-color: #ff0030; color: #fff; transform: translateY(-2px); }

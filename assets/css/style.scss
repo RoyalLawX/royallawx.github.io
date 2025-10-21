@@ -5,25 +5,26 @@
 
 /* Your overrides AFTER the import */
 header.page-header {
-  background-color: #000000;
-  background-image: linear-gradient(135deg, #000000 0%, #1a1a1a 40%, #2b2b2b 70%, #5a5a5a 100%);
-  color: #ffffff;
-  text-shadow: 0 1px 2px rgba(0,0,0,.6);
+    background-image: url('/assets/png/banner.png'); /* path to your image */
+    background-size: cover;       /* scale image to fill the header */
+    background-repeat: no-repeat; /* prevent tiling */
+    background-position: center;  /* center image */
 }
 
 a {
-  color: #ff0030; /* bright red */
+  color: #000000; // #ff0030; /* bright red */
+  text-decoration: underline; /* optional */
 }
 
 a:hover,
 a:focus {
-  color: #cc0030; /* darker red on hover for better contrast */
+  color: #ff0030; /* darker red on hover for better contrast */
   text-decoration: underline; /* optional */
 }
 
 /* Make titles in the main content red */
 .main-content h1 {
-  color: #ff0030; /* RoyalLawX red - elegant, not neon */
+  color: #000000; // #ff0030; /* RoyalLawX red - elegant, not neon */
   font-weight: 700;
   letter-spacing: 0.5px;     /* optional */
 }
@@ -31,7 +32,7 @@ a:focus {
 /* Optionally make all subheadings dark red */
 .main-content h2,
 .main-content h3 {
-  color: #ff0030;
+  color: #000000; // #ff0030;
 }
 
 /* Apply Red Hat Display globally */
@@ -57,7 +58,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .page-header nav a {
   display: inline-block;        /* makes them behave like blocks but flow nicely */
-  background: rgba(255, 255, 255, 0.1); /* subtle transparent tile background */
+  background: rgba(0, 0, 0, 0.6); /* subtle transparent tile background */
   color: #fff;
   padding: 10px 20px;
   border-radius: 8px;           /* soft corners */
@@ -69,8 +70,8 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Hover effect */
 .page-header nav a:hover {
-  background: #e50914;          /* RoyalLawX red */
-  border-color: #e50914;
+  background: #ff0030;          /* RoyalLawX red */
+  border-color: #ff0030;
   color: #fff;
   transform: translateY(-2px);
 }

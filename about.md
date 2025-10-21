@@ -8,6 +8,9 @@ permalink: /about/
 
 Fighting California Judicial Mafia Cartel and prosecuting organized white collar crime since 2022    
 
-- Find more at [RoyalLawX Blog](https://royallawx.blog)  
-- Subscribe to [YouTube Channel](https://www.youtube.com/@RoyalLawX)   
+- Find more at [Blog](https://RoyalLawX.blog)  
+- Subscribe to [YouTube](https://www.youtube.com/@RoyalLawX)  
+- Follow on [Instagram](https://www.instagram.com/RoyalLawX)  
+- Stay in touch at [Facebook](https://www.facebook.com/RoyalLawX)  
+- Read on [X](https://x.com/RoyalLawX)   
 - Contacts : [RoyalLawX@pm.me](mailto:RoyalLawX@pm.me)   
