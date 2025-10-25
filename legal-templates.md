@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Templates"
-permalink: /templates1
+permalink: /legal-templates
 ---
 # Templates
 Templates will be published here.  

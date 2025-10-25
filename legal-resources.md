@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Resources"
-permalink: /resources
+permalink: /legal-resources
 ---
 # Resources
 Resources will be published here.  
