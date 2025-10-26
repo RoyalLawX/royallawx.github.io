@@ -41,7 +41,20 @@ Stay tuned - more is coming soon.
 
 - [2023-09-20 Extortion of $29,386 by Steven Dinneen, Andrea Flint, Jillian Laxton under guise of unwarranted "Child and spousal support" - Receipts paid to Hanna Mars](/federal-removal/evidence/2023-09-20%20Extortion%20of%20$29,386%20by%20Steven%20Dinneen,%20Andrea%20Flint,%20Jillian%20Laxton%20under%20guise%20of%20unwarranted%20"Child%20and%20spousal%20support"%20-%20Receipts%20paid%20to%20Hanna%20Mars.pdf)
 
+- [2023-02-08 Coerced by Steven Dinneen stipulation on unwarranted spousal support - signed by Andrea Flint](/federal-removal/evidence/2023-02-08%20Coerced%20by%20Steven%20Dinneen%20stipulation%20on%20unwarranted%20spousal%20support%20-%20signed%20by%20Andrea%20Flint.pdf)
+
 - [2023-06-20 DCSS wage garnishment order signed by criminal Andrea Flint](/federal-removal/evidence/2023-06-20%20DCSS%20wage%20garnishment%20order%20signed%20by%20Andrea%20Flint%20-%20Nancy%20Roberts.pdf)
 
 - [Ledger: Total Theft of $175,944 by California Judicial Mafia Cartel](/federal-removal/evidence/Ledger_%20Total%20Theft%20of%20$175,944%20by%20California%20Judicial%20Mafia%20Cartel.pdf)
+
+### 5. Aggravated kidnapping of Max Mars, extortion of passport, green card and all documents of my abducted son Max. Beating by mother on Max's birthday, bruises, international abduction outside of the United States
+
+- [2022-12-10 Bruises observed on Max's body during paid supervised visitation](/federal-removal/evidence/2022-12-10%20Bruises%20observed%20on%20Max's%20body%20during%20paid%20supervised%20visitation.pdf)
+
+- [2022-12-12 - CPS Report - CPS confirms bruises on Max's body observed during paid supervised visitation](/federal-removal/evidence/2022-12-12%20-%20CPS%20Report%20-%20CPS%20confirms%20bruises%20on%20Max's%20body%20observed%20during%20paid%20supervised%20visitation.pdf)
+
+- [2023-01-26 Coerced by Steven Dinnen stipulation to dismiss DVRO trial and keep custody to kidnappers - signed by Andrea Flint](/federal-removal/evidence/2023-01-26%20Coerced%20by%20Steven%20Dinnen%20stipulation%20to%20dismiss%20DVRO%20trial%20and%20keep%20custody%20to%20kidnappers%20-%20signed%20by%20Andrea%20Flint.pdf)
+
+- [2023-06-29 Extortion of passport and documents of my son Max Mars by criminal Andrea Flint, denial of custody review hearing, extension of unlawful detention of Max as leverage of extortion](/federal-removal/evidence/2023-06-29%20Extortion%20of%20passport%20and%20documents%20of%20Max%20Mars%20by%20Andrea%20Flint,%20denial%20of%20custody%20review%20hearing,%20extension%20of%20unlawful%20detention%20of%20Max%20as%20leverage%20of%20extortion.pdf)
+
 
