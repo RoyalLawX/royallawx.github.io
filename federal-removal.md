@@ -12,10 +12,12 @@ Stay tuned - more is coming soon.
 ## Evidence
 
 
-### 1. Racketeering, bribery of judges, fabricated criminal cases, unlawful arrests and search warrants, unlawful seizure of assets and property, and hostile takeover of business by Ukrainian criminals Gondon Nahornyy, Ivan Omelchenko and Gennady Butkevych (Ukrainan Mafia Cartel "Kodlo Gondona Nahornogo") from Serhii Rybalko (documented history of racketeering):
-- [2015 Gondon Nahornyy (Serhii Nahornyy), Ivan Omelchenko and Gennady Butkevych (Ukrainian Mafia Cartel "Kodlo Gondona Nahornogo") - Racketeering, seizure of property and hostile takeover of business from Serhii Rybalko](/federal-removal/evidence/2015%20Gondon%20Nahornyy%20and%20Ivan%20Omelchenko%20-%20Racketeering%20and%20hostile%20takeover%20of%20business%20from%20Serhii%20Rybalko%20by%20Ukrainian%20Mafia%20Cartel.pdf) - [Original media article by Agravery.com](https://agravery.com/uk/posts/show/nove-zitta-pisla-rozlucenna-istoria-sgroup)
+### 1. Repetitive acts of racketeering, bribery of judges in both Ukraine in California, threats of unlawful incarceration, fabricated criminal charges, unlawful arrests and search warrants, unlawful seizure of assets and property, and hostile takeover of business from Serhii Rybalko by organized criminal group of aggressive Ukrainian homosexual pedofiles Sir Gay "Gondon" Nahornyy, Ivan "Pedofile" Omelchenko and Gennady Butkevych (Ukrainan Mafia Cartel "Kodlo Gondona Nahornogo" acting under guise of business "SI Trans Group"):
+- [2015 Sir Gay "Gondon" Nahornyy, Ivan "Pedofile" Omelchenko and Gennady Butkevych (Ukrainian Mafia Cartel "Kodlo Gondona Nahornogo", acting under guise of "SI Trans Group") - Racketeering, seizure of property and hostile takeover of business from Serhii Rybalko](/federal-removal/evidence/2015%20Gondon%20Nahornyy%20and%20Ivan%20Omelchenko%20-%20Racketeering%20and%20hostile%20takeover%20of%20business%20from%20Serhii%20Rybalko%20by%20Ukrainian%20Mafia%20Cartel.pdf) - [Original media article by Agravery.com](https://agravery.com/uk/posts/show/nove-zitta-pisla-rozlucenna-istoria-sgroup)
 
-- [Gondon Nahornyy (Serhii Nahornyy) officially registered on executive position in S.I. Group which confirms cooperation with Ivan Omelchenko in legal matters](/federal-removal/evidence/2015%20Serhiy%20Nahornyy%20S.I.%20GROUP%20TRANS%20—%20USREOU%20code%2035042793.pdf) - [Original page of Ukrainian IRS](https://youcontrol.com.ua/catalog/company_details/35042793/)
+- [Wikipedia article about hostile takeover of S Group by Sir Gay "Gondon" Nahornyy and Ivan "Pedofil" Omelchenko from founder Serhii Rybalko](/federal-removal/evidence/2015%20Wikipedia%20-%20S%20Group%20Hostile%20Takeover.pdf) - [Original Wikipedia article](https://uk.wikipedia.org/wiki/S.Group)
+
+- [Sir Gay "Gondon" Nahornyy (Serhii "Gondon" Nahornyy) is officially registered on executive position in "S.I. Trans Group" (affiliate of "S.I. Group"), agressively marketed towards homosexual audience with pedofilic preferences - which confirms cooperation with Ivan Omelchenko in financial and business decisions like bribing judges and racketeering activities](/federal-removal/evidence/2015%20Serhiy%20Nahornyy%20S.I.%20GROUP%20TRANS%20—%20USREOU%20code%2035042793.pdf) - [Original page of Ukrainian IRS](https://youcontrol.com.ua/catalog/company_details/35042793/)
   
   
 ### 2. Disqualification of James Towery for racketeering, unlawful seizure of real estate property and selling it for personal gains (removed from court under guise of "retirement" due to his RICO and 5 Disqualifications media scandal in 2022) 
@@ -31,7 +33,7 @@ Stay tuned - more is coming soon.
 - [2022-09-14 DVRO signed by Towery - Hanna Mars - Case 22DV000779](/federal-removal/evidence/2022-09-14%20DVRO%20signed%20by%20Towery%20-%20Hanna%20Mars%20-%20Case%2022DV000779.pdf)
   
   
-### 4. Extortion and theft of $175,944 by criminals Andrea Flint, Steven Dinneen, Nancy Roberts through attorney fees, screener, paid supervisors and unlawful wage garnishment via DCSS:
+### 4. Extortion and theft of $200,000 by criminals Andrea Flint, Steven Dinneen, Nancy Roberts through attorney fees, screener, paid supervisors and unlawful wage garnishment via DCSS:
 
 - [2022-10-31 DVRO trial denied, extortion of $10,600 by detaining Max Mars hostage, blocking all contact under "court order" signed by criminal Andrea Flint, "court ordered" emergency screening and paid supervised visits - Flint - 22DV000779 & 22FL003144](/federal-removal/evidence/2022-10-31%20DVRO%20trial%20denied,%20extortion%20of%20$10,600%20by%20detaining%20Max%20Mars,%20and%20ordering%20no%20contact,%20paid%20visits,%20emergency%20screening%20-%20Flint%20-%2022DV000779%20&%2022FL003144.pdf)
 
@@ -45,7 +47,7 @@ Stay tuned - more is coming soon.
 
 - [2023-06-20 DCSS wage garnishment order signed by criminal Andrea Flint](/federal-removal/evidence/2023-06-20%20DCSS%20wage%20garnishment%20order%20signed%20by%20Andrea%20Flint%20-%20Nancy%20Roberts.pdf)
 
-- [Ledger: Total Theft of $175,944 by California Judicial Mafia Cartel](/federal-removal/evidence/Ledger_%20Total%20Theft%20of%20$175,944%20by%20California%20Judicial%20Mafia%20Cartel.pdf)
+- [Ledger: Total Theft of $188,156 by California Judicial Mafia Cartel](/federal-removal/evidence/Ledger_%20Total%20Theft%20of%20$200,000%20by%20California%20Judicial%20Mafia%20Cartel.pdf)
 
 ### 5. Aggravated kidnapping of Max Mars, extortion of passport, green card and all documents of my abducted son Max. Beating by mother on Max's birthday, bruises, international abduction outside of the United States
 
