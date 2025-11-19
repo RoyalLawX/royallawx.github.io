@@ -7,7 +7,10 @@ permalink: /federal-removal/
 # Federal Removal
 Federal Removal materials are published here publicly for transparency about abduction of my son Max Mars and in case of unlawful incarceration by Santa Clara Mafia Cartel - because criminals from Santa Clara Mafia Cartel directly threatened to silence me by unlawful incarceration if I will not surrender custody rights and will continue battle for freedom of my son Max Mars, kidnapped and held hostage by criminals from Santa Clara Mafia Cartel and Ukrainian Mafia Cartel "Kodlo Gondona Nahornogo" (crimninal group of aggressive Ukrainian homosexual pedofiles "SI Trans Group").  
 
+
+
 ## CONSOLIDATED EXHIBIT BINDER (SETS 1–10) IN SUPPORT OF NOTICE OF FEDERAL REMOVAL, CIVIL RICO COMPLAINT, AND EMERGENCY TRO
+
 
 ### SET 1 — Federal Filings & Jurisdiction Proof
 
@@ -36,13 +39,20 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [2.1.2 Cover Letter to Presiding Judge Beth McGowen with the Statement of Disqualification – Lowney](/federal-removal/evidence/2.1.2%20Cover%20Letter%20to%20Presiding%20Judge%20Beth%20McGowen%20with%20the%20Statement%20of%20Disqualification%20–%20Lowney.pdf)
 
+
 - [2.2 Statement of Disqualification – Flint](/federal-removal/evidence/2.2%20Statement%20of%20Disqualification%20–%20Flint.pdf)
 
 - [2.2.1 Evidence Binder for Statement of Disqualification – Flint](/federal-removal/evidence/2.2.1%20Evidence%20Binder%20for%20Statement%20of%20Disqualification%20–%20Flint.pdf)
 
+
 - [2.3 Statement of Disqualification – Towery 2022-12-06](/federal-removal/evidence/2.3%20Statement%20of%20Disqualification%20–%20Towery%202022-12-06.pdf)
 
 - [2.3.1 Statement of Disqualification – Towery 2017-01-12](/federal-removal/evidence/2.3.1%20Statement%20of%20Disqualification%20–%20Towery%202017-01-12.pdf)
+
+
+- [2.4 PAJAR confirmation of concealed DQs](/federal-removal/evidence/2.4%20PAJAR%20confirmation%20of%20concealed%20DQs.pdf)
+
+
 
 ## Supplemental Evidence
 
