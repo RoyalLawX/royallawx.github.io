@@ -122,3 +122,9 @@ Federal Removal materials are published here publicly for transparency about abd
 - [2022-09-14 - Towery - DVRO - Kidnapping of Max Mars](/federal-removal/evidence/Orders%20post%20DQ/2022-09-14%20-%20Towery%20-%20DVRO%20-%20Kidnapping%20of%20Max%20Mars.pdf)
 
 - [2022-10-31 - Flint - No contact, supervised visits, extortion of money and emergency screening](/federal-removal/evidence/Orders%20post%20DQ/2022-10-31%20-%20Flint%20-%20No%20contact,%20supervised%20visits,%20extortion%20of%20money%20and%20emergency%20screening.pdf)
+
+- [2023-01-26 - Flint - Coerced Stipulation to Dismiss Trial](/federal-removal/evidence/Orders%20post%20DQ/2023-01-26%20-%20Flint%20-%20Coerced%20Stipulation%20to%20Dismiss%20Trial.pdf)
+
+- [2023-02-08 - Flint - Coerced Stipulation on Spousal Support](/federal-removal/evidence/Orders%20post%20DQ/2023-02-08%20-%20Flint%20-%20Coerced%20Stipulation%20on%20Spousal%20Support.pdf)
+
+- [2023-05-12 - Flint - Wages garnishment - Income withholding FL-195](/federal-removal/evidence/Orders%20post%20DQ/2023-05-12%20-%20Flint%20-%20Wages%20garnishment%20-%20Income%20withholding%20FL-195.pdf)
