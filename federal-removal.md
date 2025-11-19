@@ -36,6 +36,11 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [2.1.2 Cover Letter to Presiding Judge Beth McGowen with the Statement of Disqualification – Lowney](/federal-removal/evidence/2.1.2%20Cover%20Letter%20to%20Presiding%20Judge%20Beth%20McGowen%20with%20the%20Statement%20of%20Disqualification%20–%20Lowney.pdf)
 
+- [2.2 Statement of Disqualification – Flint](/federal-removal/evidence/2.2%20Statement%20of%20Disqualification%20–%20Flint.pdf)
+
+- [2.2.1 Evidence Binder for Statement of Disqualification – Flint](/federal-removal/evidence/2.2.1%20Evidence%20Binder%20for%20Statement%20of%20Disqualification%20–%20Flint.pdf)
+
+
 ## Supplemental Evidence
 
 
