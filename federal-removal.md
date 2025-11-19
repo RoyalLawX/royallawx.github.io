@@ -53,6 +53,9 @@ Federal Removal materials are published here publicly for transparency about abd
 - [2.4 PAJAR confirmation of concealed DQs](/federal-removal/evidence/2.4%20PAJAR%20confirmation%20of%20concealed%20DQs.pdf)
 
 
+- [2.5 Presiding Judge McGowen correspondence](/federal-removal/evidence/2.5%20Presiding%20Judge%20McGowen%20correspondence.pdf)
+
+
 
 ## Supplemental Evidence
 
