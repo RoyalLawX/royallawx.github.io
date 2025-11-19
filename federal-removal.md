@@ -117,3 +117,6 @@ Federal Removal materials are published here publicly for transparency about abd
 - [2023-06-29 Extortion of passport, green card and all documents of my abducted son Max Mars by criminal Andrea Flint, denial of custody review hearing, extension of unlawful detention of Max as leverage of extortion](/federal-removal/evidence/2023-06-29%20Extortion%20of%20passport%20and%20documents%20of%20Max%20Mars%20by%20Andrea%20Flint,%20denial%20of%20custody%20review%20hearing,%20extension%20of%20unlawful%20detention%20of%20Max%20as%20leverage%20of%20extortion.pdf)
 
 
+### 6. Orders post DQ
+
+- [2022-09-14 DVRO signed by Towery - Kidnapping of Max Mars](/federal-removal/evidence/Orders%20post%20DQ/2022-09-14%20DVRO%20signed%20by%20Towery%20-%20Kidnapping%20of%20Max%20Mars.pdf)
