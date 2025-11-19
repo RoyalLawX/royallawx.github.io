@@ -5,19 +5,40 @@ permalink: /federal-removal/
 ---
 
 # Federal Removal
-Fresh materials on Federal Removal process will be published here.  
-  
-Stay tuned - more is coming soon.  
+Federal Removal materials are published here publicly for transparency about abduction of my son Max Mars and in case of unlawful incarceration by Santa Clara Mafia Cartel - because criminals from Santa Clara Mafia Cartel directly threatened to silence me by unlawful incarceration if I will not surrender custody rights and will continue battle for freedom of my son Max Mars, kidnapped and held hostage by criminals from Santa Clara Mafia Cartel and Ukrainian Mafia Cartel "Kodlo Gondona Nahornogo" (crimninal group of aggressive Ukrainian homosexual pedofiles "SI Trans Group").  
 
-## Evidence
+## CONSOLIDATED EXHIBIT BINDER (SETS 1–10) IN SUPPORT OF NOTICE OF FEDERAL REMOVAL, CIVIL RICO COMPLAINT, AND EMERGENCY TRO
+
+### SET 1 — Federal Filings & Jurisdiction Proof
+
+- [1.1 Notice of Removal — Filing Version - Austin, Texas (Unstamped)](/federal-removal/evidence/1.1%20Notice%20of%20Removal%20—%20Filing%20Version%20-%20Texas%20(Unstamped).pdf)
+
+- [1.1.2 Notice of Removal — Filing Version - San Jose, California (Unstamped)](/federal-removal/evidence/1.1.2%20Notice%20of%20Removal%20—%20Filing%20Version%20-%20California%20(Unstamped).pdf)
+
+- [1.2 Civil RICO Complaint — Filing Version (Unstamped)](/federal-removal/evidence/1.2%20Civil%20RICO%20Complaint%20—%20Filing%20Version%20(Unstamped).pdf)
+
+- [1.3 Emergency TRO Motion — Filing Version (Unstamped)](/federal-removal/evidence/1.3%20Emergency%20TRO%20Motion%20—%20Filing%20Version%20(Unstamped).pdf)
+
+- [1.4 Civil Cover Sheet JS-44 — Filing Version](/federal-removal/evidence/1.4%20Civil%20Cover%20Sheet%20JS-44%20—%20Filing%20Version.pdf)
+
+- [1.5 Authority Sheet (Federal & State Jurisdiction Citations)](/federal-removal/evidence/1.5%20Authority%20Sheet%20(Federal%20&%20State%20Jurisdiction%20Citations).pdf)
+
+- [1.6 Appellate Denial to Change Venue and Complete Reassessment of All Void Orders (Manoukian)](/federal-removal/evidence/1.6%20Appellate%20Denial%20to%20Change%20Venue%20and%20Complete%20Reassessment%20of%20All%20Void%20Orders%20(Manoukian).pdf)
+
+- [1.7. Notice of Filing of Notice of Removal - Santa Clara County](/federal-removal/evidence/1.7.%20Notice%20of%20Filing%20of%20Notice%20of%20Removal%20-%20Santa%20Clara%20County.pdf)
+
+## Supplemental Evidence
 
 
-### 1. Repetitive acts of racketeering, bribery of judges in both Ukraine in California, threats of unlawful incarceration, fabricated criminal charges, unlawful arrests and search warrants, unlawful seizure of assets and property, and hostile takeover of business from Serhii Rybalko by organized criminal group of aggressive Ukrainian homosexual pedofiles Sir Gay "Gondon" Nahornyy, Ivan "Pedofile" Omelchenko and Gennady Butkevych (Ukrainan Mafia Cartel "Kodlo Gondona Nahornogo" acting under guise of business "SI Trans Group"):
-- [2015 Sir Gay "Gondon" Nahornyy, Ivan "Pedofile" Omelchenko and Gennady Butkevych (Ukrainian Mafia Cartel "Kodlo Gondona Nahornogo", acting under guise of "SI Trans Group") - Racketeering, seizure of property and hostile takeover of business from Serhii Rybalko](/federal-removal/evidence/2015%20Gondon%20Nahornyy%20and%20Ivan%20Omelchenko%20-%20Racketeering%20and%20hostile%20takeover%20of%20business%20from%20Serhii%20Rybalko%20by%20Ukrainian%20Mafia%20Cartel.pdf) - [Original media article by Agravery.com](https://agravery.com/uk/posts/show/nove-zitta-pisla-rozlucenna-istoria-sgroup)
+### 1. Racketeering record of organized criminal group of aggressive Ukrainian homosexual pedofiles Sir Gay "Gondon" Nahornyy, Ivan "Pedofile" Omelchenko and Gennady Butkevych (Ukrainan Mafia Cartel "Kodlo Gondona Nahornogo" acting under guise of business "SI Trans Group"):
+- [2015 Sir Gay "Gondon" Nahornyy, Ivan "Pedofile" Omelchenko and Gennady Butkevych (Ukrainian Mafia Cartel "Kodlo Gondona Nahornogo", acting under guise of "SI Trans Group") - Racketeering, seizure of property and hostile takeover of business from Serhii Rybalko](/federal-removal/evidence/2015%20Gondon%20Nahornyy%20and%20Ivan%20Omelchenko%20-%20Racketeering%20and%20hostile%20takeover%20of%20business%20from%20Serhii%20Rybalko%20by%20Ukrainian%20Mafia%20Cartel.pdf) 
+- [Original media article by Agravery.com](https://agravery.com/uk/posts/show/nove-zitta-pisla-rozlucenna-istoria-sgroup)
 
-- [Wikipedia article about hostile takeover of S Group by Sir Gay "Gondon" Nahornyy and Ivan "Pedofil" Omelchenko from founder Serhii Rybalko](/federal-removal/evidence/2015%20Wikipedia%20-%20S%20Group%20Hostile%20Takeover.pdf) - [Original Wikipedia article](https://uk.wikipedia.org/wiki/S.Group)
+- [Wikipedia article about hostile takeover of S Group by Sir Gay "Gondon" Nahornyy and Ivan "Pedofil" Omelchenko from founder Serhii Rybalko](/federal-removal/evidence/2015%20Wikipedia%20-%20S%20Group%20Hostile%20Takeover.pdf) 
+- [Original Wikipedia article](https://uk.wikipedia.org/wiki/S.Group)
 
-- [Sir Gay "Gondon" Nahornyy (Serhii "Gondon" Nahornyy) is officially registered on executive position in "S.I. Trans Group" (affiliate of "S.I. Group"), agressively marketed towards homosexual audience with pedofilic preferences - which confirms cooperation with Ivan Omelchenko in financial and business decisions like bribing judges and racketeering activities](/federal-removal/evidence/2015%20Serhiy%20Nahornyy%20S.I.%20GROUP%20TRANS%20—%20USREOU%20code%2035042793.pdf) - [Original page of Ukrainian IRS](https://youcontrol.com.ua/catalog/company_details/35042793/)
+- [Sir Gay "Gondon" Nahornyy (Serhii "Gondon" Nahornyy) is officially registered on executive position in "S.I. Trans Group" (affiliate of "S.I. Group"), agressively marketed towards homosexual audience with pedofilic preferences - which confirms cooperation with Ivan Omelchenko in financial and business decisions like bribing judges and racketeering activities](/federal-removal/evidence/2015%20Serhiy%20Nahornyy%20S.I.%20GROUP%20TRANS%20—%20USREOU%20code%2035042793.pdf) 
+- [Original page of Ukrainian IRS - SI Trans Group registration for Sir Gay "Gondon" Nahornyy (Serhii "Gondon" Nahornyy)](https://youcontrol.com.ua/catalog/company_details/35042793/)
   
   
 ### 2. Disqualification of James Towery for racketeering, unlawful seizure of real estate property and selling it for personal gains (removed from court under guise of "retirement" due to his RICO and 5 Disqualifications media scandal in 2022) 
