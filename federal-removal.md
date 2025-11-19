@@ -27,6 +27,15 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [1.7. Notice of Filing of Notice of Removal - Santa Clara County](/federal-removal/evidence/1.7.%20Notice%20of%20Filing%20of%20Notice%20of%20Removal%20-%20Santa%20Clara%20County.pdf)
 
+
+### SET 2 — Judicial Disqualification & Void Jurisdiction Evidence
+
+- [2.1 Statement of Disqualification – Lowney](/federal-removal/evidence/2.1%20Statement%20of%20Disqualification%20–%20Lowney.pdf)
+
+- [2.1.1 Evidence Binder for Statement of Disqualification – Lowney](/federal-removal/evidence/2.1.1%20Evidence%20Binder%20for%20Statement%20of%20Disqualification%20–%20Lowney.pdf)
+
+- [2.1.2 Cover Letter to Presiding Judge Beth McGowen with the Statement of Disqualification – Lowney](/federal-removal/evidence/2.1.2%20Cover%20Letter%20to%20Presiding%20Judge%20Beth%20McGowen%20with%20the%20Statement%20of%20Disqualification%20–%20Lowney.pdf)
+
 ## Supplemental Evidence
 
 
