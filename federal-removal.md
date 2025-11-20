@@ -45,6 +45,8 @@ Federal Removal materials are published here publicly for transparency about abd
 - [2.2.1 Evidence Binder for Statement of Disqualification – Flint](/federal-removal/evidence/2.2.1%20Evidence%20Binder%20for%20Statement%20of%20Disqualification%20–%20Flint.pdf)
 
 
+- [2.3 Statements of Disqualification – Towery](/federal-removal/evidence/2.3%20Statements%20of%20Disqualification%20–%20Towery.pdf)
+
 - [2.3 Statement of Disqualification – Towery 2022-12-06](/federal-removal/evidence/2.3%20Statement%20of%20Disqualification%20–%20Towery%202022-12-06.pdf)
 
 - [2.3.1 Statement of Disqualification – Towery 2017-01-12](/federal-removal/evidence/2.3.1%20Statement%20of%20Disqualification%20–%20Towery%202017-01-12.pdf)
