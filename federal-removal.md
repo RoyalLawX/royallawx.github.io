@@ -69,6 +69,8 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [3.2 DVRO (Flint – 2023-11-28)](/federal-removal/evidence/3.2%20DVRO%20(Flint%20–%202023-11-28).pdf)
 
+- [3.3 Permanent DVRO (Lowney – 2024-06-17)](/federal-removal/evidence/3.3%20Permanent%20DVRO%20(Lowney%20–%202024-06-17).pdf)
+
 
 
 ## Supplemental Evidence
