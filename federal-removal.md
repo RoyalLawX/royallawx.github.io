@@ -67,7 +67,7 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [3.1 DVRO (Towery – 2022-09-14)](/federal-removal/evidence/3.1%20DVRO%20(Towery%20–%202022-09-14).pdf)
 
-
+- [3.2 DVRO (Flint – 11/28/2023)](/federal-removal/evidence/3.2%20DVRO%20(Flint%20–%2011:28:2023).pdf)
 
 
 
