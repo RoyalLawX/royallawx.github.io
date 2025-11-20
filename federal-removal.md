@@ -153,6 +153,10 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [2023-09-13 - Flint - Order striking motion to recuse Flint](/federal-removal/evidence/Orders%20post%20DQ/2023-09-13%20-%20Flint%20-%20Order%20striking%20motion%20to%20recuse%20Flint.pdf)
 
+- [2023-11-13 - Flint - Partial Trial - Financial fraud, falsified bank statements, extortion of $7,000, extortion of money through QDRO expert](/federal-removal/evidence/Orders%20post%20DQ/2023-11-13%20-%20Flint%20-%20Partial%20Trial%20-%20Financial%20fraud,%20falsified%20bank%20statements,%20extortion%20of%20$7,000,%20extortion%20of%20money%20through%20QDRO%20expert.pdf)
 
+- [2023-11-28 - Flint - DVRO prohibiting greeting my son Max Mars with his Birthday](/federal-removal/evidence/Orders%20post%20DQ/2023-11-28%20-%20Flint%20-%20DVRO%20prohibiting%20greeting%20my%20son%20Max%20Mars%20with%20his%20Birthday.pdf)
+
+- [2023-12-15 - Flint - Order striking motion to recuse Flint](/federal-removal/evidence/Orders%20post%20DQ/2023-12-15%20-%20Flint%20-%20Order%20striking%20motion%20to%20recuse%20Flint.pdf)
 
 
