@@ -141,4 +141,18 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [2023-08-29 - Flint - Extortion of money, 401k, Stock accounts](/federal-removal/evidence/Orders%20post%20DQ/2023-08-29%20-%20Flint%20-%20Extortion%20of%20money,%20401k,%20Stock%20accounts.pdf)
 
+- [2023-09-05 - Flint - Acknowledged service of motion to recuse](/federal-removal/evidence/Orders%20post%20DQ/2023-09-05%20-%20Flint%20-%20Acknowledged%20service%20of%20motion%20to%20recuse.pdf)
+
+- [2023-09-05, 09-07, 09-13 - Flint - Motion to recuse, continuance](/federal-removal/evidence/Orders%20post%20DQ/2023-09-05,%2009-07,%2009-13%20-%20Flint%20-%20Motion%20to%20recuse,%20continuance.pdf)
+
+- [2023-09-07 - Flint - Flint lied, does not acknowledge of service of motion to recuse](/federal-removal/evidence/Orders%20post%20DQ/2023-09-07%20-%20Flint%20-%20Flint%20lied,%20does%20not%20acknowledge%20of%20service%20of%20motion%20to%20recuse.pdf)
+
+- [2023-09-08 - Laxton - Wages garnishment removal denied](/federal-removal/evidence/Orders%20post%20DQ/2023-09-08%20-%20Laxton%20-%20Wages%20garnishment%20removal%20denied.pdf)
+
+- [2023-09-13 - Flint - Denies request to recuse made on record](/federal-removal/evidence/Orders%20post%20DQ/2023-09-13%20-%20Flint%20-%20Denies%20request%20to%20recuse%20made%20on%20record.pdf)
+
+- [2023-09-13 - Flint - Order striking motion to recuse Flint](/federal-removal/evidence/Orders%20post%20DQ/2023-09-13%20-%20Flint%20-%20Order%20striking%20motion%20to%20recuse%20Flint.pdf)
+
+
+
 
