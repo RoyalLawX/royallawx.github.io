@@ -58,6 +58,8 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [2.6 Vexatious Litigant Order (post-DQ)](/federal-removal/evidence/2.6%20Vexatious%20Litigant%20Order%20(post-DQ).pdf)
 
+- [2.7 Summary Chart – Void Orders After DQ](/federal-removal/evidence/2.7%20Summary%20Chart%20–%20Void%20Orders%20After%20DQ.pdf)
+
 
 
 ## Supplemental Evidence
