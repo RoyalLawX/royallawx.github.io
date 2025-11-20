@@ -61,6 +61,13 @@ Federal Removal materials are published here publicly for transparency about abd
 - [2.7 Summary Chart – Void Orders After DQ](/federal-removal/evidence/2.7%20Summary%20Chart%20–%20Void%20Orders%20After%20DQ.pdf)
 
 
+### SET 3 — Void Orders, Warrants & Predicate Acts
+
+- [3.1 DVRO (Towery – 2022-09-14)](/federal-removal/evidence/3.1%20DVRO%20(Towery%20–%202022-09-14).pdf)
+
+
+
+
 
 ## Supplemental Evidence
 
