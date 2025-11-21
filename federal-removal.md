@@ -223,7 +223,7 @@ Federal Removal materials are published here publicly for transparency about abd
 
 ### 6. Denial Orders (Recusal, Custody Review, DVRO Trial)
 
-- [2022-10-31 - Flint - DVRO Trial DENIED. No contact, supervised visits, extortion of money and emergency screening](/federal-removal/evidence/denial-orders/2022-10-31%20-%20Flint%20-%20DVRO%20Trial%20DENIED.%20No%20contact,%20supervised%20visits,%20extortion%20of%20money%20and%20emergency%20screening.pdf)
+- [2022-10-31 - Flint - DVRO Trial DENIED. No contact, supervised visits, extortion of money and emergency screening](/federal-removal/evidence/denial-orders/2022-10-31%20-%20Flint%20-%20DVRO%20Trial%20-%20DENIED.%20No%20contact,%20supervised%20visits,%20extortion%20of%20money%20and%20emergency%20screening.pdf)
 
 - [2023-06-29 - Flint - Custody Review - DENIED](/federal-removal/evidence/denial-orders/2023-06-29%20-%20Flint%20-%20Custody%20Review%20-%20DENIED.pdf)
 
