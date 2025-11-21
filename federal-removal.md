@@ -77,7 +77,7 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [3.6 Arrest Warrant C2416667 (Clark – 2024-10-23)](/federal-removal/evidence/3.6%20Arrest%20Warrant%20C2416667%20(Clark%20–%202024-10-23).pdf)
 
-
+- [3.7 Denial Orders (Recusal, Custody Review, DVRO Trial)](/federal-removal/evidence/3.7%20Denial%20Orders%20(Recusal,%20Custody%20Review,%20DVRO%20Trial).pdf)
 
 
 
