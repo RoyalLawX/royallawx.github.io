@@ -73,6 +73,8 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [3.4 Bench Warrant (Lowney – 2024-06-17)](/federal-removal/evidence/3.4%20Bench%20Warrant%20(Lowney%20–%202024-06-17).pdf)
 
+- [3.5 Bench Warrant (Williams – 2024-08-21)](/federal-removal/evidence/3.5%20Bench%20Warrant%20(Williams%20–%202024-08-21).pdf)
+
 
 
 
