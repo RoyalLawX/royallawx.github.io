@@ -219,3 +219,67 @@ Federal Removal materials are published here publicly for transparency about abd
 - [2024-10-30 - Sunnyvale DPS refused to provide body cam recordings of corrupt cops who committed unlawful arrest](/federal-removal/evidence/orders/2024-10-30%20-%20Sunnyvale%20DPS%20refused%20to%20provide%20body%20cam%20recordings%20of%20corrupt%20cops%20who%20committed%20unlawful%20arrest.pdf)
 
 - [2025-02-20 - Santa Clara Sheriffs Office - Search Warrant Notice](/federal-removal/evidence/orders/2025-02-20%20-%20Santa%20Clara%20Sheriffs%20Office%20-%20Search%20Warrant%20Notice.pdf)
+
+
+### 6. Denial Orders (Recusal, Custody Review, DVRO Trial)
+
+- [2022-10-31 - Flint - DVRO Trial DENIED. No contact, supervised visits, extortion of money and emergency screening](/federal-removal/evidence/denial-orders/2022-10-31%20-%20Flint%20-%20DVRO%20Trial%20DENIED.%20No%20contact,%20supervised%20visits,%20extortion%20of%20money%20and%20emergency%20screening.pdf)
+
+- [2023-06-29 - Flint - Custody Review - DENIED](/federal-removal/evidence/denial-orders/2023-06-29%20-%20Flint%20-%20Custody%20Review%20-%20DENIED.pdf)
+
+- [2023-07-31 - Flint - Partial Trial - Extortion of money, seizure of VW Tiguan, Equalizing Payment - DENIED](/federal-removal/evidence/denial-orders/2023-07-31%20-%20Flint%20-%20Partial%20Trial%20-%20Extortion%20of%20money,%20seizure%20of%20VW%20Tiguan,%20Equalizing%20Payment%20-%20DENIED.pdf.pdf)
+
+- [2023-08-01 - Flint - Contempt And Disqualification of Nancy Roberts - DENIED](/federal-removal/evidence/denial-orders/2023-08-01%20-%20Flint%20-%20Contempt%20And%20Disqualification%20of%20Nancy%20Roberts%20-%20DENIED.pdf)
+
+- [2023-08-17 - Flint - Order Striking Motion To Recuse](/federal-removal/evidence/denial-orders/2023-08-17%20-%20Flint%20-%20Order%20Striking%20Motion%20To%20Recuse.pdf)
+
+- [2023-08-29 - Flint - Extortion of money, 401k, Stock accounts. Equalizing Payment and QDRO - DENIED](/federal-removal/evidence/denial-orders/2023-08-29%20-%20Flint%20-%20Extortion%20of%20money,%20401k,%20Stock%20accounts.%20Equalizing%20Payment%20and%20QDRO%20-%20DENIED.pdf)
+
+- [2023-08-29 - Flint - Coercion to pay criminal from Santa Clara Mafia Cartel for QDRO financial fraud, QDRO - DENIED](/federal-removal/evidence/denial-orders/2023-08-29%20-%20Flint%20-%20Coercion%20to%20pay%20criminal%20from%20Santa%20Clara%20Mafia%20Cartel%20for%20QDRO%20financial%20fraud,%20QDRO%20-%20DENIED.pdf)
+
+- [2023-09-05, 09-07, 09-13 - Flint - Motion To Recuse - DENIED](/federal-removal/evidence/denial-orders/2023-09-05,%2009-07,%2009-13%20-%20Flint%20-%20Motion%20To%20Recuse%20-%20DENIED.pdf)
+
+- [2023-09-07 - Flint - Flint lied, does not acknowledge of service of motion to recuse . Motion To Recuse - DENIED](/federal-removal/evidence/denial-orders/2023-09-07%20-%20Flint%20-%20Flint%20lied,%20does%20not%20acknowledge%20of%20service%20of%20motion%20to%20recuse%20.%20Motion%20To%20Recuse%20-%20DENIED.pdf)
+
+- [2023-09-08 - Laxton - Wages garnishment removal - DENIED](/federal-removal/evidence/denial-orders/2023-09-08%20-%20Laxton%20-%20Wages%20garnishment%20removal%20-%20DENIED.pdf)
+
+- [2023-09-13 - Flint - Order Striking Motion To Recuse](/federal-removal/evidence/denial-orders/2023-09-13%20-%20Flint%20-%20Order%20Striking%20Motion%20To%20Recuse.pdf)
+
+- [2023-09-13 - Flint - Request to Recuse made on record - DENIED](/federal-removal/evidence/denial-orders/2023-09-13%20-%20Flint%20-%20Request%20to%20Recuse%20made%20on%20record%20-%20DENIED.pdf)
+
+- [2023-11-13 - Flint - Partial Trial - Financial fraud, falsified bank statements, extortion of $7,000, extortion of money through QDRO expert, QDRO - DENIED](/federal-removal/evidence/denial-orders/2023-11-13%20-%20Flint%20-%20Partial%20Trial%20-%20Financial%20fraud,%20falsified%20bank%20statements,%20extortion%20of%20$7,000,%20extortion%20of%20money%20through%20QDRO%20expert,%20QDRO%20-%20DENIED.pdf)
+
+- [2023-11-28 - Flint - DVRO prohibiting greeting my son Max Mars with Birthday](/federal-removal/evidence/denial-orders/2023-11-28%20-%20Flint%20-%20DVRO%20prohibiting%20greeting%20my%20son%20Max%20Mars%20with%20Birthday.pdf)
+
+- [2023-12-15 - Flint - Order Striking Motion To Recuse](/federal-removal/evidence/denial-orders/2023-12-15%20-%20Flint%20-%20Order%20Striking%20Motion%20To%20Recuse.pdf)
+
+- [2024-02-01 - Lowney - Reconsideration of extortion $7,000 order based on financial fraud denied, sanctions $500 for requesting reconsideration - DENIED](/federal-removal/evidence/denial-orders/2024-02-01%20-%20Lowney%20-%20Reconsideration%20of%20extortion%20$7,000%20order%20based%20on%20financial%20fraud%20denied,%20sanctions%20$500%20for%20requesting%20reconsideration%20-%20DENIED.pdf)
+
+- [2024-02-02 - Lowney - Court reporter request - DENIED](/federal-removal/evidence/denial-orders/2024-02-02%20-%20Lowney%20-%20Court%20reporter%20request%20-%20DENIED.pdf)
+
+- [2024-02-02 - Lowney - Media coverage request - DENIED](/federal-removal/evidence/denial-orders/2024-02-02%20-%20Lowney%20-%20Media%20coverage%20request%20-%20DENIED.pdf)
+
+- [2024-02-07 - Lowney - Extortion of passport of my son Max Mars, threats of jail time and denial of access to California courts, denial of Custody Review, DVRO Trial, Reconsideration of orders and all 9 matters - DENIED](/federal-removal/evidence/denial-orders/2024-02-07%20-%20Lowney%20-%20Extortion%20of%20passport%20of%20my%20son%20Max%20Mars,%20threats%20of%20jail%20time%20and%20denial%20of%20access%20to%20California%20courts,%20denial%20of%20Custody%20Review,%20DVRO%20Trial,%20Reconsideration%20of%20orders%20and%20all%209%20matters%20-%20DENIED.pdf)
+
+- [2024-02-23 - Lowney - Order Striking Disqualification](/federal-removal/evidence/denial-orders/2024-02-23%20-%20Lowney%20-%20Order%20Striking%20Disqualification.pdf)
+
+- [2024-02-27 - Lowney - Contempt against Hanna - DENIED](/federal-removal/evidence/denial-orders/2024-02-27%20-%20Lowney%20-%20Contempt%20against%20Hanna%20-%20DENIED.pdf)
+
+- [2024-03-11 - Lowney - VL-100 Vexatious Litigant Post DQ](/federal-removal/evidence/denial-orders/2024-03-11%20-%20Lowney%20-%20VL-100%20Vexatious%20Litigant%20Post%20DQ.pdf)
+
+- [2024-03-21 - Lowney - Change of Venue and Disqualify Nancy Roberts - DENIED](/federal-removal/evidence/denial-orders/2024-03-21%20-%20Lowney%20-%20Change%20of%20Venue%20and%20Disqualify%20Nancy%20Roberts%20-%20DENIED.pdf)
+
+- [2024-03-26 - Lowney - Packing all hearings to 06-17 - Reschedule to after removal of judge - DENIED](/federal-removal/evidence/denial-orders/2024-03-26%20-%20Lowney%20-%20Packing%20all%20hearings%20to%2006-17%20-%20Reschedule%20to%20after%20removal%20of%20judge%20-%20DENIED.pdf)
+
+- [2024-03-28 - Lowney - Order Striking Disqualification](/federal-removal/evidence/denial-orders/2024-03-28%20-%20Lowney%20-%20Order%20Striking%20Disqualification.pdf)
+
+- [2024-06-17 - Lowney - Denial to Nullify All Void Orders, Bench warrant, Permanent DVRO, Denial of Custody Review, Denial of DVRO Trial, Denial of Bifurcation of Divorce Status. All Requests - DENIED](/federal-removal/evidence/denial-orders/2024-06-17%20-%20Lowney%20-%20Denial%20to%20Nullify%20All%20Void%20Orders,%20Bench%20warrant,%20Permanent%20DVRO,%20Denial%20of%20Custody%20Review,%20Denial%20of%20DVRO%20Trial,%20Denial%20of%20Bifurcation%20of%20Divorce%20Status.%20All%20Requests%20-%20DENIED.pdf)
+
+- [2024-06-17 - Lowney - Order Striking Disqualification](/federal-removal/evidence/denial-orders/2024-06-17%20-%20Lowney%20-%20Order%20Striking%20Disqualification.pdf)
+
+- [2024-06-17 - Lowney- DV-130 Permanent Restraining Order](/federal-removal/evidence/denial-orders/2024-06-17%20-%20Lowney-%20DV-130%20Permanent%20Restraining%20Order.pdf)
+
+- [2024-08-21 - Benjamin Williams - Criminal Bench Warrant, Hearing case - DENIED](/federal-removal/evidence/denial-orders/2024-08-21%20-%20Benjamin%20Williams%20-%20Criminal%20Bench%20Warrant,%20Hearing%20case%20-%20DENIED.pdf)
+
+- [2024-10-30 - Sunnyvale DPS refused to provide body cam recordings of corrupt cops who committed unlawful arrest](/federal-removal/evidence/denial-orders/2024-10-30%20-%20Sunnyvale%20DPS%20refused%20to%20provide%20body%20cam%20recordings%20of%20corrupt%20cops%20who%20committed%20unlawful%20arrest.pdf)
+
