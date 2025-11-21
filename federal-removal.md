@@ -71,6 +71,9 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [3.3 Permanent DVRO (Lowney – 2024-06-17)](/federal-removal/evidence/3.3%20Permanent%20DVRO%20(Lowney%20–%202024-06-17).pdf)
 
+- [3.4 Bench Warrant (Lowney – 2024-06-17)](/federal-removal/evidence/3.4%20Bench%20Warrant%20(Lowney%20–%202024-06-17).pdf)
+
+
 
 
 ## Supplemental Evidence
