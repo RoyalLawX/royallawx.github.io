@@ -75,6 +75,9 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [3.5 Bench Warrant (Williams – 2024-08-21)](/federal-removal/evidence/3.5%20Bench%20Warrant%20(Williams%20–%202024-08-21).pdf)
 
+- [3.6 Arrest Warrant C2416667 (Clark – 2024-10-23)](/federal-removal/evidence/3.6%20Arrest%20Warrant%20C2416667%20(Clark%20–%202024-10-23).pdf)
+
+
 
 
 
