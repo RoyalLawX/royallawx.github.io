@@ -277,7 +277,7 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [2024-06-17 - Lowney - Order Striking Disqualification](/federal-removal/evidence/denial-orders/2024-06-17%20-%20Lowney%20-%20Order%20Striking%20Disqualification.pdf)
 
-- [2024-06-17 - Lowney- DV-130 Permanent Restraining Order](/federal-removal/evidence/denial-orders/2024-06-17%20-%20Lowney-%20DV-130%20Permanent%20Restraining%20Order.pdf)
+- [2024-06-17 - Lowney - DV-130 Permanent Restraining Order](/federal-removal/evidence/denial-orders/2024-06-17%20-%20Lowney%20-%20DV-130%20Permanent%20Restraining%20Order.pdf)
 
 - [2024-08-21 - Benjamin Williams - Criminal Bench Warrant, Hearing case - DENIED](/federal-removal/evidence/denial-orders/2024-08-21%20-%20Benjamin%20Williams%20-%20Criminal%20Bench%20Warrant,%20Hearing%20case%20-%20DENIED.pdf)
 
