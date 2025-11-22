@@ -79,6 +79,9 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [3.7 Denial Orders (Recusal, Custody Review, DVRO Trial)](/federal-removal/evidence/3.7%20Denial%20Orders%20(Recusal,%20Custody%20Review,%20DVRO%20Trial).pdf)
 
+- [2024-02-07 Transcript Of Hearing - Extortion of passport and documents of my son Max Mars by Stephen Lowney under threats of unlawful incarceration](/federal-removal/evidence/recordings/2024-02-07%20Transcript%20Of%20Hearing.pdf)
+
+
 
 
 ## Supplemental Evidence
