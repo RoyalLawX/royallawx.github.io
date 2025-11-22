@@ -1,15 +1,14 @@
 ---
 layout: default
-title: ROYAL LAW
+title: "Royal Law"
 ---
 
 # Welcome to The Royal Law Library 
   
-Fighting California Child Trafficking Cartel and prosecuting organized white collar crime since 2022     
+Fighting California Judicial Mafia Cartel and prosecuting organized white collar crime since 2022     
   
 Here you can find:  
 - [Federal Removal](/federal-removal/)  
-- [California Child Trafficking Cartel](/california-child-trafficking-cartel/)  
+- [California Judicial Mafia Cartel](/california-judicial-mafia-cartel/)  
 - [Royal Law Book](/royal-law-book/)   
-- [Examples](/examples/) 
 - [About](/about/)  
