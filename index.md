@@ -9,7 +9,7 @@ Fighting California Judicial Mafia Cartel and prosecuting organized white collar
   
 Here you can find:  
 - [Federal Removal](/federal-removal/)  
-- [California Judicial Mafia Cartel](/california-mafia-cartel/)  
+- [California Judicial Mafia Cartel](/california-judicial-mafia-cartel/)  
 - [Royal Law Book](/royal-law-book/)   
 - [Examples](/examples/) 
 - [About](/about/)  
