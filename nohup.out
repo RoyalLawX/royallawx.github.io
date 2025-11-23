@@ -1,0 +1,318 @@
+Configuration file: /Users/roycemars/projects/royallawx/royallawx.github.io/_config.yml
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+            Source: /Users/roycemars/projects/royallawx/royallawx.github.io
+       Destination: /Users/roycemars/projects/royallawx/royallawx.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+      Remote Theme: Using theme pages-themes/cayman
+                    done in 0.895 seconds.
+ Auto-regeneration: enabled for '/Users/roycemars/projects/royallawx/royallawx.github.io'
+LiveReload address: http://127.0.0.1:35729
+jekyll 3.10.0 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+/Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:205:in 'Socket#bind': Address already in use - bind(2) for 127.0.0.1:4000 (Errno::EADDRINUSE)
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:205:in 'Addrinfo#listen'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:1181:in 'block in Socket.tcp_server_sockets'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:231:in 'Array#each'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:231:in 'Addrinfo.foreach'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:1179:in 'Socket.tcp_server_sockets'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/utils.rb:60:in 'WEBrick::Utils.create_listeners'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:130:in 'WEBrick::GenericServer#listen'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:111:in 'WEBrick::GenericServer#initialize'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:47:in 'WEBrick::HTTPServer#initialize'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:229:in 'Class#new'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:229:in 'Jekyll::Commands::Serve.start_up_webrick'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:104:in 'Jekyll::Commands::Serve.process'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'block in Jekyll::Commands::Serve.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'Array#each'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'Jekyll::Commands::Serve.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:75:in 'block (2 levels) in Jekyll::Commands::Serve.init_with_program'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'block in Mercenary::Command#execute'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'Array#each'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'Mercenary::Command#execute'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in 'Mercenary::Program#go'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary.rb:19:in 'Mercenary.program'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/exe/jekyll:15:in '<top (required)>'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Kernel#load'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Gem.activate_and_load_bin_path'
+	from /Users/roycemars/.gem/ruby/3.4.1/bin/jekyll:25:in '<top (required)>'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:59:in 'Kernel.load'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:59:in 'Bundler::CLI::Exec#kernel_load'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:23:in 'Bundler::CLI::Exec#run'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:456:in 'Bundler::CLI#exec'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/command.rb:28:in 'Bundler::Thor::Command#run'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in 'Bundler::Thor::Invocation#invoke_command'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor.rb:538:in 'Bundler::Thor.dispatch'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:35:in 'Bundler::CLI.dispatch'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/base.rb:584:in 'Bundler::Thor::Base::ClassMethods#start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:29:in 'Bundler::CLI.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/exe/bundle:28:in 'block in <top (required)>'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/friendly_errors.rb:118:in 'Bundler.with_friendly_errors'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/exe/bundle:20:in '<top (required)>'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Kernel#load'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Gem.activate_and_load_bin_path'
+	from /Users/roycemars/.gem/ruby/3.4.1/bin/bundle:25:in '<main>'
+Configuration file: /Users/roycemars/projects/royallawx/royallawx.github.io/_config.yml
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+            Source: /Users/roycemars/projects/royallawx/royallawx.github.io
+       Destination: /Users/roycemars/projects/royallawx/royallawx.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+      Remote Theme: Using theme pages-themes/cayman
+                    done in 1.001 seconds.
+ Auto-regeneration: enabled for '/Users/roycemars/projects/royallawx/royallawx.github.io'
+LiveReload address: http://127.0.0.1:35729
+jekyll 3.10.0 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+/Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:205:in 'Socket#bind': Address already in use - bind(2) for 127.0.0.1:4000 (Errno::EADDRINUSE)
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:205:in 'Addrinfo#listen'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:1181:in 'block in Socket.tcp_server_sockets'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:231:in 'Array#each'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:231:in 'Addrinfo.foreach'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:1179:in 'Socket.tcp_server_sockets'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/utils.rb:60:in 'WEBrick::Utils.create_listeners'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:130:in 'WEBrick::GenericServer#listen'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:111:in 'WEBrick::GenericServer#initialize'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:47:in 'WEBrick::HTTPServer#initialize'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:229:in 'Class#new'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:229:in 'Jekyll::Commands::Serve.start_up_webrick'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:104:in 'Jekyll::Commands::Serve.process'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'block in Jekyll::Commands::Serve.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'Array#each'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'Jekyll::Commands::Serve.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:75:in 'block (2 levels) in Jekyll::Commands::Serve.init_with_program'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'block in Mercenary::Command#execute'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'Array#each'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'Mercenary::Command#execute'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in 'Mercenary::Program#go'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary.rb:19:in 'Mercenary.program'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/exe/jekyll:15:in '<top (required)>'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Kernel#load'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Gem.activate_and_load_bin_path'
+	from /Users/roycemars/.gem/ruby/3.4.1/bin/jekyll:25:in '<top (required)>'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:59:in 'Kernel.load'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:59:in 'Bundler::CLI::Exec#kernel_load'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:23:in 'Bundler::CLI::Exec#run'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:456:in 'Bundler::CLI#exec'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/command.rb:28:in 'Bundler::Thor::Command#run'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in 'Bundler::Thor::Invocation#invoke_command'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor.rb:538:in 'Bundler::Thor.dispatch'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:35:in 'Bundler::CLI.dispatch'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/base.rb:584:in 'Bundler::Thor::Base::ClassMethods#start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:29:in 'Bundler::CLI.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/exe/bundle:28:in 'block in <top (required)>'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/friendly_errors.rb:118:in 'Bundler.with_friendly_errors'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/exe/bundle:20:in '<top (required)>'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Kernel#load'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Gem.activate_and_load_bin_path'
+	from /Users/roycemars/.gem/ruby/3.4.1/bin/bundle:25:in '<main>'
+Configuration file: /Users/roycemars/projects/royallawx/royallawx.github.io/_config.yml
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+            Source: /Users/roycemars/projects/royallawx/royallawx.github.io
+       Destination: /Users/roycemars/projects/royallawx/royallawx.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+      Remote Theme: Using theme pages-themes/cayman
+                    done in 1.016 seconds.
+ Auto-regeneration: enabled for '/Users/roycemars/projects/royallawx/royallawx.github.io'
+LiveReload address: http://127.0.0.1:35729
+jekyll 3.10.0 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+/Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:205:in 'Socket#bind': Address already in use - bind(2) for 127.0.0.1:4000 (Errno::EADDRINUSE)
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:205:in 'Addrinfo#listen'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:1181:in 'block in Socket.tcp_server_sockets'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:231:in 'Array#each'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:231:in 'Addrinfo.foreach'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:1179:in 'Socket.tcp_server_sockets'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/utils.rb:60:in 'WEBrick::Utils.create_listeners'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:130:in 'WEBrick::GenericServer#listen'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:111:in 'WEBrick::GenericServer#initialize'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:47:in 'WEBrick::HTTPServer#initialize'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:229:in 'Class#new'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:229:in 'Jekyll::Commands::Serve.start_up_webrick'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:104:in 'Jekyll::Commands::Serve.process'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'block in Jekyll::Commands::Serve.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'Array#each'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'Jekyll::Commands::Serve.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:75:in 'block (2 levels) in Jekyll::Commands::Serve.init_with_program'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'block in Mercenary::Command#execute'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'Array#each'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'Mercenary::Command#execute'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in 'Mercenary::Program#go'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary.rb:19:in 'Mercenary.program'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/exe/jekyll:15:in '<top (required)>'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Kernel#load'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Gem.activate_and_load_bin_path'
+	from /Users/roycemars/.gem/ruby/3.4.1/bin/jekyll:25:in '<top (required)>'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:59:in 'Kernel.load'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:59:in 'Bundler::CLI::Exec#kernel_load'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:23:in 'Bundler::CLI::Exec#run'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:456:in 'Bundler::CLI#exec'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/command.rb:28:in 'Bundler::Thor::Command#run'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in 'Bundler::Thor::Invocation#invoke_command'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor.rb:538:in 'Bundler::Thor.dispatch'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:35:in 'Bundler::CLI.dispatch'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/base.rb:584:in 'Bundler::Thor::Base::ClassMethods#start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:29:in 'Bundler::CLI.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/exe/bundle:28:in 'block in <top (required)>'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/friendly_errors.rb:118:in 'Bundler.with_friendly_errors'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/exe/bundle:20:in '<top (required)>'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Kernel#load'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Gem.activate_and_load_bin_path'
+	from /Users/roycemars/.gem/ruby/3.4.1/bin/bundle:25:in '<main>'
+Configuration file: /Users/roycemars/projects/royallawx/royallawx.github.io/_config.yml
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+            Source: /Users/roycemars/projects/royallawx/royallawx.github.io
+       Destination: /Users/roycemars/projects/royallawx/royallawx.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+      Remote Theme: Using theme pages-themes/cayman
+                    done in 0.904 seconds.
+ Auto-regeneration: enabled for '/Users/roycemars/projects/royallawx/royallawx.github.io'
+LiveReload address: http://127.0.0.1:35729
+jekyll 3.10.0 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+/Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:205:in 'Socket#bind': Address already in use - bind(2) for 127.0.0.1:4000 (Errno::EADDRINUSE)
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:205:in 'Addrinfo#listen'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:1181:in 'block in Socket.tcp_server_sockets'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:231:in 'Array#each'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:231:in 'Addrinfo.foreach'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:1179:in 'Socket.tcp_server_sockets'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/utils.rb:60:in 'WEBrick::Utils.create_listeners'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:130:in 'WEBrick::GenericServer#listen'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:111:in 'WEBrick::GenericServer#initialize'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:47:in 'WEBrick::HTTPServer#initialize'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:229:in 'Class#new'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:229:in 'Jekyll::Commands::Serve.start_up_webrick'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:104:in 'Jekyll::Commands::Serve.process'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'block in Jekyll::Commands::Serve.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'Array#each'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'Jekyll::Commands::Serve.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:75:in 'block (2 levels) in Jekyll::Commands::Serve.init_with_program'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'block in Mercenary::Command#execute'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'Array#each'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'Mercenary::Command#execute'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in 'Mercenary::Program#go'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary.rb:19:in 'Mercenary.program'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/exe/jekyll:15:in '<top (required)>'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Kernel#load'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Gem.activate_and_load_bin_path'
+	from /Users/roycemars/.gem/ruby/3.4.1/bin/jekyll:25:in '<top (required)>'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:59:in 'Kernel.load'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:59:in 'Bundler::CLI::Exec#kernel_load'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:23:in 'Bundler::CLI::Exec#run'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:456:in 'Bundler::CLI#exec'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/command.rb:28:in 'Bundler::Thor::Command#run'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in 'Bundler::Thor::Invocation#invoke_command'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor.rb:538:in 'Bundler::Thor.dispatch'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:35:in 'Bundler::CLI.dispatch'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/base.rb:584:in 'Bundler::Thor::Base::ClassMethods#start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:29:in 'Bundler::CLI.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/exe/bundle:28:in 'block in <top (required)>'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/friendly_errors.rb:118:in 'Bundler.with_friendly_errors'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/exe/bundle:20:in '<top (required)>'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Kernel#load'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Gem.activate_and_load_bin_path'
+	from /Users/roycemars/.gem/ruby/3.4.1/bin/bundle:25:in '<main>'
+Configuration file: /Users/roycemars/projects/royallawx/royallawx.github.io/_config.yml
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+            Source: /Users/roycemars/projects/royallawx/royallawx.github.io
+       Destination: /Users/roycemars/projects/royallawx/royallawx.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+      Remote Theme: Using theme pages-themes/cayman
+                    done in 0.911 seconds.
+ Auto-regeneration: enabled for '/Users/roycemars/projects/royallawx/royallawx.github.io'
+LiveReload address: http://127.0.0.1:35729
+jekyll 3.10.0 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+/Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:205:in 'Socket#bind': Address already in use - bind(2) for 127.0.0.1:4000 (Errno::EADDRINUSE)
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:205:in 'Addrinfo#listen'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:1181:in 'block in Socket.tcp_server_sockets'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:231:in 'Array#each'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:231:in 'Addrinfo.foreach'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:1179:in 'Socket.tcp_server_sockets'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/utils.rb:60:in 'WEBrick::Utils.create_listeners'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:130:in 'WEBrick::GenericServer#listen'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:111:in 'WEBrick::GenericServer#initialize'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:47:in 'WEBrick::HTTPServer#initialize'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:229:in 'Class#new'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:229:in 'Jekyll::Commands::Serve.start_up_webrick'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:104:in 'Jekyll::Commands::Serve.process'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'block in Jekyll::Commands::Serve.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'Array#each'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'Jekyll::Commands::Serve.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:75:in 'block (2 levels) in Jekyll::Commands::Serve.init_with_program'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'block in Mercenary::Command#execute'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'Array#each'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'Mercenary::Command#execute'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in 'Mercenary::Program#go'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary.rb:19:in 'Mercenary.program'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/exe/jekyll:15:in '<top (required)>'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Kernel#load'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Gem.activate_and_load_bin_path'
+	from /Users/roycemars/.gem/ruby/3.4.1/bin/jekyll:25:in '<top (required)>'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:59:in 'Kernel.load'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:59:in 'Bundler::CLI::Exec#kernel_load'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:23:in 'Bundler::CLI::Exec#run'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:456:in 'Bundler::CLI#exec'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/command.rb:28:in 'Bundler::Thor::Command#run'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in 'Bundler::Thor::Invocation#invoke_command'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor.rb:538:in 'Bundler::Thor.dispatch'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:35:in 'Bundler::CLI.dispatch'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/base.rb:584:in 'Bundler::Thor::Base::ClassMethods#start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:29:in 'Bundler::CLI.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/exe/bundle:28:in 'block in <top (required)>'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/friendly_errors.rb:118:in 'Bundler.with_friendly_errors'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/exe/bundle:20:in '<top (required)>'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Kernel#load'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Gem.activate_and_load_bin_path'
+	from /Users/roycemars/.gem/ruby/3.4.1/bin/bundle:25:in '<main>'
+Configuration file: /Users/roycemars/projects/royallawx/royallawx.github.io/_config.yml
+To use retry middleware with Faraday v2.0+, install `faraday-retry` gem
+            Source: /Users/roycemars/projects/royallawx/royallawx.github.io
+       Destination: /Users/roycemars/projects/royallawx/royallawx.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+      Remote Theme: Using theme pages-themes/cayman
+                    done in 0.775 seconds.
+ Auto-regeneration: enabled for '/Users/roycemars/projects/royallawx/royallawx.github.io'
+LiveReload address: http://127.0.0.1:35729
+jekyll 3.10.0 | Error:  Address already in use - bind(2) for 127.0.0.1:4000
+/Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:205:in 'Socket#bind': Address already in use - bind(2) for 127.0.0.1:4000 (Errno::EADDRINUSE)
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:205:in 'Addrinfo#listen'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:1181:in 'block in Socket.tcp_server_sockets'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:231:in 'Array#each'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:231:in 'Addrinfo.foreach'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/3.4.0/socket.rb:1179:in 'Socket.tcp_server_sockets'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/utils.rb:60:in 'WEBrick::Utils.create_listeners'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:130:in 'WEBrick::GenericServer#listen'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/server.rb:111:in 'WEBrick::GenericServer#initialize'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/webrick-1.9.1/lib/webrick/httpserver.rb:47:in 'WEBrick::HTTPServer#initialize'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:229:in 'Class#new'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:229:in 'Jekyll::Commands::Serve.start_up_webrick'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:104:in 'Jekyll::Commands::Serve.process'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'block in Jekyll::Commands::Serve.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'Array#each'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:93:in 'Jekyll::Commands::Serve.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/lib/jekyll/commands/serve.rb:75:in 'block (2 levels) in Jekyll::Commands::Serve.init_with_program'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'block in Mercenary::Command#execute'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'Array#each'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/command.rb:220:in 'Mercenary::Command#execute'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary/program.rb:42:in 'Mercenary::Program#go'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/mercenary-0.3.6/lib/mercenary.rb:19:in 'Mercenary.program'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/jekyll-3.10.0/exe/jekyll:15:in '<top (required)>'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Kernel#load'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Gem.activate_and_load_bin_path'
+	from /Users/roycemars/.gem/ruby/3.4.1/bin/jekyll:25:in '<top (required)>'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:59:in 'Kernel.load'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:59:in 'Bundler::CLI::Exec#kernel_load'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli/exec.rb:23:in 'Bundler::CLI::Exec#run'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:456:in 'Bundler::CLI#exec'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/command.rb:28:in 'Bundler::Thor::Command#run'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in 'Bundler::Thor::Invocation#invoke_command'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor.rb:538:in 'Bundler::Thor.dispatch'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:35:in 'Bundler::CLI.dispatch'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/vendor/thor/lib/thor/base.rb:584:in 'Bundler::Thor::Base::ClassMethods#start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/cli.rb:29:in 'Bundler::CLI.start'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/exe/bundle:28:in 'block in <top (required)>'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/lib/bundler/friendly_errors.rb:118:in 'Bundler.with_friendly_errors'
+	from /Users/roycemars/.gem/ruby/3.4.1/gems/bundler-2.7.2/exe/bundle:20:in '<top (required)>'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Kernel#load'
+	from /Users/roycemars/.rubies/ruby-3.4.1/lib/ruby/site_ruby/3.4.0/rubygems.rb:319:in 'Gem.activate_and_load_bin_path'
+	from /Users/roycemars/.gem/ruby/3.4.1/bin/bundle:25:in '<main>'
