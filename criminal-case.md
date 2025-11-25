@@ -11,7 +11,7 @@ Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Th
 ## Criminal Case B2402220
 
 
-### 1. Evidence of absense of legal basis for criminal prosecution - case is defective because DVRO 11/28/2023 is void ab inito - it was signed by disqualified child trafficker Andrea Flint post DQ 11/13/2023
+### 1. Evidence of absence of legal basis for criminal prosecution - case is defective because DVRO 11/28/2023 is void ab inito - it was signed by disqualified child trafficker Andrea Flint post DQ 11/13/2023
 
 - [2023-11-13 Statement of Disqualification Against Child Trafficker Andrea Flint](/federal-removal/evidence/criminal-case/2023-11-13%20Statement%20of%20Disqualification%20Against%20Child%20Trafficker%20Andrea%20Flint.pdf)
 
