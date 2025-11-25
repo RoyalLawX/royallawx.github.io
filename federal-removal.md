@@ -127,7 +127,7 @@ Federal Removal materials are published here publicly for transparency about abd
 
 - [Ledger: Total Theft of $200,000 by California Judicial Mafia Cartel](/federal-removal/evidence/Ledger_%20Total%20Theft%20of%20$200,000%20by%20California%20Judicial%20Mafia%20Cartel.pdf)
 
-### 5. Aggravated kidnapping of Max Mars, extortion of passport, green card and all documents of my abducted son Max. Beating by mother on Max's birthday, bruises, international abduction outside of the United States
+### 5. Abduction of Max Mars And Detention Without Right For a Phone Call. Extortion of passport, green card and all documents of my son Max Mars. Beating of Max by mother Gnyda Nahonra on Max's birthday in 2023, bruises on Max's body, international abduction outside of the United States to Ukraine
 
 - [2022-12-10 Bruises observed on Max's body during paid supervised visitation](/federal-removal/evidence/2022-12-10%20Bruises%20observed%20on%20Max's%20body%20during%20paid%20supervised%20visitation.pdf)
 
