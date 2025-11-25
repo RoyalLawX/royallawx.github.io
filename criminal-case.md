@@ -89,6 +89,8 @@ Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Th
 
 ### 6. Targeted racketeering attack with fabricated arrest and bench warrants by organized group of criminals from Santa Clara Mafia Cartel - child traffickers and racketeers Thomas Kuhnle, Benjamin Williams, Michael Clark:
 
+- [2024-06-17 Stephen Lowney - Void Bench Warrant issued Post DQ](/federal-removal/evidence/criminal-case/2024-06-17%20Stephen%20Lowney%20-%20Void%20Bench%20Warrant%20issued%20Post%20DQ.pdf)
+
 - [2024-08-21 Benjamin Williams - Bench Warrant](/federal-removal/evidence/criminal-case/2024-08-21%20Benjamin%20Williams%20-%20Bench%20Warrant.pdf)
 
 - [2024-08-21 Sunnyvale Police Department - Bench Warrant](/federal-removal/evidence/criminal-case/2024-08-21%20Sunnyvale%20Police%20Department%20-%20Bench%20Warrant.pdf)
