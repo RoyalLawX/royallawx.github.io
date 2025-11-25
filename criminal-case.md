@@ -101,7 +101,7 @@ Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Th
 
 ### 7. Denial of access to evidence and bodycam recordings of police officers who committed racketeering attack, theft and unlawful arrest 06/14/2024 - by Sunnyvale Police Department:
 
-- [2024-10-20 Sunnyvale Police Department - Refusal To Provide BodyCam Recordings Of Police Officers Committed Unlawful Arrest Of Royce Mars 2024-06-17](/federal-removal/evidence/criminal-case/2024-10-20%20Sunnyvale%20Police%20Department%20-%20Refusal%20To%20Provide%20BodyCam%20Recordings%20Of%20Police%20Officers%20Committed%20Unlawful%20Arrest%20Of%20Royce%20Mars%202024-06-17.pdf)
+- [2024-10-20 Sunnyvale Police Department - Refusal To Provide BodyCam Recordings Of Police Officers Committed Unlawful Arrest Of Royce Mars 2024-06-14](/federal-removal/evidence/criminal-case/2024-10-20%20Sunnyvale%20Police%20Department%20-%20Refusal%20To%20Provide%20BodyCam%20Recordings%20Of%20Police%20Officers%20Committed%20Unlawful%20Arrest%20Of%20Royce%20Mars%202024-06-14.pdf)
 
 
 
