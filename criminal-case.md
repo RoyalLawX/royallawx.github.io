@@ -5,11 +5,14 @@ permalink: /criminal-case/
 ---
 
 # Criminal Case
-Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Thomas Kuhnle, Benjamin Williams, Michael Clark and Chase Martin fabricated criminal case against me, which they used as the tool of weaponization of Santa Clara County Court in targeted racketeering attack on me, with the purpose to block all contact with my son Max Mars, extort passport and documents of my son under threat of unlawful incarceration.
+Child traffickers and racketeers Stephen Lowney, Beth McGowen, Nancy Roberts, Thomas Kuhnle, Benjamin Williams, Michael Clark and Chase Martin fabricated criminal case against me, which they used as the tool of weaponization of Santa Clara County Court in targeted racketeering attack against me, with the purpose to block all contact with my son Max Mars, extort passport and documents of my son under threat of unlawful incarceration.
 
 
 ## Criminal Case B2402220
 
+### Unified Evidence Binder
+
+- [Criminal Case B2402220 Used For Child Trafficking And Racketeering - Evidence](/federal-removal/evidence/criminal-case/Criminal%20Case%20B2402220%20Used%20For%20Child%20Trafficking%20And%20Racketeering%20-%20Evidence.pdf)
 
 ### 1. Evidence of absence of legal basis for criminal prosecution - case is defective because DVRO 11/28/2023 is void ab inito - it was signed by disqualified child trafficker Andrea Flint post DQ 11/13/2023
 
